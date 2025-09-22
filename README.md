@@ -1,16 +1,13 @@
-# news_app
+# 📰 News Cloud
 
-A new Flutter project.
+**News Cloud** is a modern Flutter application that delivers the latest news from **trusted sources**, organized by categories such as **Sports, Technology, and Health**.  
+The app provides a simple, clean interface to stay updated and explore articles directly.
 
-## Getting Started
+## 🚀 Features
+- Latest news from reliable sources  
+- Categorized news (Sports, Tech, Health, etc.)  
+- Integrated WebView to read full articles  
+- Direct links to popular sources like **beIN Sports**  
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
